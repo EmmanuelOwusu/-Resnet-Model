@@ -1,10 +1,8 @@
 # -Resnet-Model
-This is a basic Resnet Model using the CFAR 10 data set,  presented to the Computer Vision Group.
-
-
-# Summary
 
 This talk was given at African Master’s of Machine Intelligence (AMMI-Ghana) during the Computer Vision Group meeting.
+
+# Summary
 
 Below is the summary of the the talk on the Resnet Model.
 
